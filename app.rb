@@ -13,7 +13,7 @@ end
 # 	 erb :info
 # 	end 
 	
-	get '/home' do 
+	get '/' do 
 	  erb:home
 	end 
 	
