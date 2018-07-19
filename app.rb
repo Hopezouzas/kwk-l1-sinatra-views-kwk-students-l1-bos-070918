@@ -13,5 +13,8 @@ end
 	 erb :info
 	end 
 	
+	get '/amature' do
+	  erb:amature
+	end 
 	
 end
