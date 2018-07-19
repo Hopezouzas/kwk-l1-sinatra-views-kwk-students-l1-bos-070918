@@ -13,6 +13,10 @@ end
 # 	 erb :info
 # 	end 
 	
+	get '/home' do 
+	  erb:home
+	end 
+	
 	get '/amature' do
 	  erb:amature
 	end 
