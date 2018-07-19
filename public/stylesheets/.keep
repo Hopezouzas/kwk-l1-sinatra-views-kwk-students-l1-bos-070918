@@ -31,5 +31,5 @@ body {text-align: center;}
   border-radius:15px;}
 .image{position:absolute; left:750px; height:300px; width:400px;}
  body {font-family:Dosis;}
-.Li {font-size: 200%;}
+.li {font-size: 200%;}
 
