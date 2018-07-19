@@ -5,13 +5,13 @@ class App < Sinatra::Base
     set :views, "views"
 set :public_air, "public"
 end 
-	get '/' do
-	  erb :index 
-end
+# 	get '/' do
+# 	  erb :index 
+# end
 
-	get '/info' do 
-	 erb :info
-	end 
+# 	get '/info' do 
+# 	 erb :info
+# 	end 
 	
 	get '/amature' do
 	  erb:amature
