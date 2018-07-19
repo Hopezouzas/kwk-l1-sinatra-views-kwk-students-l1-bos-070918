@@ -18,23 +18,3 @@ h1 {color: #000080;
   padding:25px;
   border-radius:15px;}
 
-body {background-image: url("https://cdn-images-1.medium.com/max/1920/1*AcYLHh0_ve4TNRi6HLFcPA.jpeg");} 
-
-image
-{img:url("https://www.bokashi.com.au/site/bokashi/images/RRRC.jpg")}
-body {text-align: center;}
-.center{text-align:center;list-style-position:inside;}
- h3{border:solid 10px; border-color:white; background:white; max-width:380px; position:absolute; left:280px; top:380px;color:#000080; 
-  font-size:180%;
-  text-align:center;
-  font-family:Dosis;
-  border: 3px solid;
-  border-color:#B1FEEZ;
-  background-color:white;
-  width:400px;
-  margin:auto;
-  padding:10px;
-  border-radius:15px;}
-.image{position:absolute; left:750px; height:300px; width:400px;}
- body {font-family:Dosis;}
-.li {font-size: 200%;}
